@@ -1,0 +1,17 @@
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\bin\Debug\net10.0\Test.deps.json
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\bin\Debug\net10.0\Test.dll
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\bin\Debug\net10.0\Test.pdb
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\bin\Debug\net10.0\Library.dll
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\bin\Debug\net10.0\Project.dll
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\bin\Debug\net10.0\Library.pdb
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\bin\Debug\net10.0\Project.pdb
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\Test.csproj.AssemblyReference.cache
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\Test.AssemblyInfoInputs.cache
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\Test.AssemblyInfo.cs
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\Test.csproj.CoreCompileInputs.cache
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\Test.csproj.Up2Date
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\Test.dll
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\refint\Test.dll
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\Test.pdb
+D:\бгуир3.2\spp\lab1\ConsoleApp1\Test\obj\Debug\net10.0\ref\Test.dll

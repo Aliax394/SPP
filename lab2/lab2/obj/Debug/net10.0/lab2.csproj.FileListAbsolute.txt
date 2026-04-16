@@ -1,0 +1,14 @@
+D:\bsuir\бгуир3.2\spp\lab2\lab2\bin\Debug\net10.0\lab2.exe
+D:\bsuir\бгуир3.2\spp\lab2\lab2\bin\Debug\net10.0\lab2.deps.json
+D:\bsuir\бгуир3.2\spp\lab2\lab2\bin\Debug\net10.0\lab2.runtimeconfig.json
+D:\bsuir\бгуир3.2\spp\lab2\lab2\bin\Debug\net10.0\lab2.dll
+D:\bsuir\бгуир3.2\spp\lab2\lab2\bin\Debug\net10.0\lab2.pdb
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\lab2.AssemblyInfoInputs.cache
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\lab2.AssemblyInfo.cs
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\lab2.csproj.CoreCompileInputs.cache
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\lab2.dll
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\refint\lab2.dll
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\lab2.pdb
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\lab2.genruntimeconfig.cache
+D:\bsuir\бгуир3.2\spp\lab2\lab2\obj\Debug\net10.0\ref\lab2.dll

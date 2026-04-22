@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\tests\\assertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\tests\\assertex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\tests\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\tests\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\dynamicthpooll\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\dynamicthpooll\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\testing\\prtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\testing\\prtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\project\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\project\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\tests\\testrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\tests\\testrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\tests\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\tests\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\dynamicthpooll\\dynamicthpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B9E9E-3E19-1E62-5DC0-58D981F02584}|lab3\\lab3.csproj|solutionrelative:lab3\\dynamicthpooll\\dynamicthpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrTests.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Testing\\PrTests.cs",
+              "RelativeDocumentMoniker": "lab3\\Testing\\PrTests.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Testing\\PrTests.cs",
+              "RelativeToolTip": "lab3\\Testing\\PrTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:02:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lab3.csproj",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\lab3.csproj",
+              "RelativeDocumentMoniker": "lab3\\lab3.csproj",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\lab3.csproj",
+              "RelativeToolTip": "lab3\\lab3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T11:02:36.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:32:50.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssertEx.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Tests\\AssertEx.cs",
+              "RelativeDocumentMoniker": "lab3\\Tests\\AssertEx.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Tests\\AssertEx.cs",
+              "RelativeToolTip": "lab3\\Tests\\AssertEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:58:09.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\DynamicThPoolL\\WorkItem.cs",
+              "RelativeDocumentMoniker": "lab3\\DynamicThPoolL\\WorkItem.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\DynamicThPoolL\\WorkItem.cs",
+              "RelativeToolTip": "lab3\\DynamicThPoolL\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:06:01.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Project\\Calculator.cs",
+              "RelativeDocumentMoniker": "lab3\\Project\\Calculator.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Project\\Calculator.cs",
+              "RelativeToolTip": "lab3\\Project\\Calculator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:02:12.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestRunner.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Tests\\TestRunner.cs",
+              "RelativeDocumentMoniker": "lab3\\Tests\\TestRunner.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Tests\\TestRunner.cs",
+              "RelativeToolTip": "lab3\\Tests\\TestRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:00:10.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Tests\\TestResult.cs",
+              "RelativeDocumentMoniker": "lab3\\Tests\\TestResult.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Tests\\TestResult.cs",
+              "RelativeToolTip": "lab3\\Tests\\TestResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:59:29.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DynamicThPool.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\DynamicThPoolL\\DynamicThPool.cs",
+              "RelativeDocumentMoniker": "lab3\\DynamicThPoolL\\DynamicThPool.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\DynamicThPoolL\\DynamicThPool.cs",
+              "RelativeToolTip": "lab3\\DynamicThPoolL\\DynamicThPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:06:25.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attributes.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Tests\\Attributes.cs",
+              "RelativeDocumentMoniker": "lab3\\Tests\\Attributes.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab3\\lab3\\Tests\\Attributes.cs",
+              "RelativeToolTip": "lab3\\Tests\\Attributes.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:55:14.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

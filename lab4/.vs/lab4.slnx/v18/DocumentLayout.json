@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\testsproject\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\testsproject\\taskmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\testsproject\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\testsproject\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\lab4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\testedproject\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\testedproject\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\testedproject\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\testedproject\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\threadpoolmodule\\customthreadpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\threadpoolmodule\\customthreadpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\threadpoolmodule\\workitemeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\threadpoolmodule\\workitemeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\testrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\testrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\filterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\filterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\testfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\testfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\testdiscoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\testdiscoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\assertexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\assertexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\testexecutionentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\testexecutionentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|d:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\tests\\testcasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2AFC9B6-B883-AE0A-77C6-0B34E93D8B48}|lab4\\lab4.csproj|solutionrelative:lab4\\tests\\testcasedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagerTests.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\TestsProject\\TaskManagerTests.cs",
+              "RelativeDocumentMoniker": "lab4\\TestsProject\\TaskManagerTests.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\TestsProject\\TaskManagerTests.cs",
+              "RelativeToolTip": "lab4\\TestsProject\\TaskManagerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T20:02:05.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\TestsProject\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "lab4\\TestsProject\\CalculatorTests.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\TestsProject\\CalculatorTests.cs",
+              "RelativeToolTip": "lab4\\TestsProject\\CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:56:11.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\TestedProject\\TaskManager.cs",
+              "RelativeDocumentMoniker": "lab4\\TestedProject\\TaskManager.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\TestedProject\\TaskManager.cs",
+              "RelativeToolTip": "lab4\\TestedProject\\TaskManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:54:48.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\TestedProject\\Calculator.cs",
+              "RelativeDocumentMoniker": "lab4\\TestedProject\\Calculator.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\TestedProject\\Calculator.cs",
+              "RelativeToolTip": "lab4\\TestedProject\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:54:02.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomThreadPool.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\ThreadPoolModule\\CustomThreadPool.cs",
+              "RelativeDocumentMoniker": "lab4\\ThreadPoolModule\\CustomThreadPool.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\ThreadPoolModule\\CustomThreadPool.cs",
+              "RelativeToolTip": "lab4\\ThreadPoolModule\\CustomThreadPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:51:26.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkItemEventArgs.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\ThreadPoolModule\\WorkItemEventArgs.cs",
+              "RelativeDocumentMoniker": "lab4\\ThreadPoolModule\\WorkItemEventArgs.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\ThreadPoolModule\\WorkItemEventArgs.cs",
+              "RelativeToolTip": "lab4\\ThreadPoolModule\\WorkItemEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:50:55.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab4",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\lab4.csproj",
+              "RelativeDocumentMoniker": "lab4\\lab4.csproj",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\lab4.csproj",
+              "RelativeToolTip": "lab4\\lab4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-28T19:50:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:00:13.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestRunner.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestRunner.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\TestRunner.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestRunner.cs",
+              "RelativeToolTip": "lab4\\Tests\\TestRunner.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:49:31.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attributes.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\Attributes.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\Attributes.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\Attributes.cs",
+              "RelativeToolTip": "lab4\\Tests\\Attributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T11:01:51.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterFactory.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\FilterFactory.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\FilterFactory.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\FilterFactory.cs",
+              "RelativeToolTip": "lab4\\Tests\\FilterFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:48:27.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestFilter.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestFilter.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\TestFilter.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestFilter.cs",
+              "RelativeToolTip": "lab4\\Tests\\TestFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:47:29.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestDiscoverer.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestDiscoverer.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\TestDiscoverer.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestDiscoverer.cs",
+              "RelativeToolTip": "lab4\\Tests\\TestDiscoverer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:45:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Assert.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\Assert.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\Assert.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\Assert.cs",
+              "RelativeToolTip": "lab4\\Tests\\Assert.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:41:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssertException.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\AssertException.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\AssertException.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\AssertException.cs",
+              "RelativeToolTip": "lab4\\Tests\\AssertException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:41:06.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestResult.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\TestResult.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestResult.cs",
+              "RelativeToolTip": "lab4\\Tests\\TestResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:40:25.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestExecutionEntry.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestExecutionEntry.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\TestExecutionEntry.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestExecutionEntry.cs",
+              "RelativeToolTip": "lab4\\Tests\\TestExecutionEntry.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:39:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestCaseData.cs",
+              "DocumentMoniker": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestCaseData.cs",
+              "RelativeDocumentMoniker": "lab4\\Tests\\TestCaseData.cs",
+              "ToolTip": "D:\\bsuir\\\u0431\u0433\u0443\u0438\u04403.2\\spp\\lab4\\lab4\\Tests\\TestCaseData.cs",
+              "RelativeToolTip": "lab4\\Tests\\TestCaseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:37:35.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
